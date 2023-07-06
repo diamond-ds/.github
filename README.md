@@ -1,2 +1,2 @@
 # .github
-Diamond DS github profile welcome page
+Triple-D GitHub profile welcome page
